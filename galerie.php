@@ -29,7 +29,7 @@ require_once(__DIR__.'/templates/header.php');
         <li><img src="./assets/images/image20.jpg" alt=""></li>
         <li><img src="./assets/images/raclette.jpeg" alt=""></li>
         <li><img src="./assets/images/savoie.jpg" alt=""></li>
-        <li><img src="./assets/images/savoie1.jpg" alt=""></li>
+        <li><img src="./assets/images/burger.jpg" alt=""></li>
     </ul>
 
 </main>

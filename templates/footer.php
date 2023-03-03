@@ -11,6 +11,10 @@
       <span class="mb-3 mb-md-0 text-muted">&copy; 2022 Company, Inc</span>
     </div>
 
+    <div  class="horaires">
+      <a href="horaires.php" class="text-white bg-secondary p-2 rounded">horaires</a>
+    </div>
+
     <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
       <li class="ms-3"><a class="text-muted" href="https://www.facebook.com//" target="blank"><i class="bi bi-facebook"></i></a></li>
       <li class="ms-3"><a class="text-muted" href="https://www.instagram.com/" target="blank"><i class="bi bi-instagram"></i></a></li>

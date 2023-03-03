@@ -17,9 +17,9 @@
         <img src="assets/images/image24.jpg" alt="">
         <div class="container">
           <div class="carousel-caption">
-            <h1>Horaires:</h1>
-            <p>DU MARDI AU DIMANCHE <br> 11h-15h  <br> 18h-22h </p>
-            <p><a class="btn btn-lg btn-primary" href="contact.php">Nous joindre</a></p>
+            <h1 class="fs-2 text-white">Horaires:</h1>
+            <p class="fs-4 text-white">DU MARDI AU DIMANCHE <br> 11h-15h <br> 18h-22h </p><br><br><br><br><br><br><br><br><br><br><br>
+            <p><a class="btn btn-lg text-white bg-dark p-2 rounded" href="contact.php">Nous joindre</a></p>
           </div>
         </div>
       </div>
@@ -28,9 +28,9 @@
       <img src="assets/images/image22.jpg" alt="">
         <div class="container">
           <div class="carousel-caption">
-            <h1>Another example headline.</h1>
-            <p>Some representative placeholder content for the second slide of the carousel.</p>
-            <p><a class="btn btn-lg btn-primary" href="resa.php">Réserver</a></p>
+            <h1 class="fs-1 text-dark">Adresse:</h1>
+            <p class="fs-3 text-dark">55 rue de chamb <br> chambéry <br> 73000</p><br><br><br><br><br><br><br><br><br><br><br>
+            <p><a class="btn btn-lg text-white bg-dark p-2 rounded" href="resa.php">Réserver</a></p>
           </div>
         </div>
       </div>
@@ -39,9 +39,9 @@
       <img src="assets/images/image23.jpg" alt="">
         <div class="container">
           <div class="carousel-caption">
-            <h1>One more for good measure.</h1>
-            <p>Some representative placeholder content for the third slide of this carousel.</p>
-            <p><a class="btn btn-lg btn-primary" href="galerie.php">Galerie photo</a></p>
+            <h1 class="fs-1 text-dark">Numéro de téléphone:</h1>
+            <p class="fs-3 text-dark">06.15.16.15.16</p><br><br><br><br><br><br><br><br><br><br>
+            <p><a class="btn btn-lg text-white bg-dark p-2 rounded" href="galerie.php">Galerie photo</a></p>
           </div>
         </div>
       </div>
