@@ -4,6 +4,7 @@ require_once(__DIR__ . '/templates/header.php');
 
 
 <main>
+    <div class="container">
         <h1>Réservation de table</h1>
 
         <form class="resa" action="resa.php" method="POST">
@@ -48,6 +49,7 @@ require_once(__DIR__ . '/templates/header.php');
             </select><br><br>
             <input type="submit" value="Réserver"><br><br>
         </form>
+    </div>
 </main>
 
 

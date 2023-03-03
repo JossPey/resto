@@ -12,9 +12,9 @@
     </div>
 
     <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
-      <li class="ms-3"><a class="text-muted" href="#"><i class="bi bi-facebook"></i></a></li>
-      <li class="ms-3"><a class="text-muted" href="#"><i class="bi bi-instagram"></i></a></li>
-      <li class="ms-3"><a class="text-muted" href="#"><i class="bi bi-twitter"></i></a></li>
+      <li class="ms-3"><a class="text-muted" href="https://www.facebook.com//" target="blank"><i class="bi bi-facebook"></i></a></li>
+      <li class="ms-3"><a class="text-muted" href="https://www.instagram.com/" target="blank"><i class="bi bi-instagram"></i></a></li>
+      <li class="ms-3"><a class="text-muted" href="https://www.twitter.com/" target="blank"><i class="bi bi-twitter" ></i></a></li>
     </ul>
   </footer>
 </div>

@@ -31,11 +31,13 @@
 
 /*RESA*/
 
-.resa h1 {
+
+
+.container .resa h1 {
     text-align: center;
 }
 
-.resa form {
+.container .resa {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -43,7 +45,7 @@
     margin: 0 auto;
   }
   
-.resa input[type="text"] {
+.container .resa input[type="text"] {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
@@ -52,7 +54,7 @@
     border-radius: 4px;
   }
   
-.resa input[type="submit"] {
+.container .resa input[type="submit"] {
     width: 100%;
     background-color: #4CAF50;
     color: white;
@@ -63,7 +65,7 @@
     cursor: pointer;
   }
 
-.resa select {
+.container .resa select {
     width: 100%;
     text-align: center;
     padding: 14px 20px;
@@ -72,7 +74,7 @@
     cursor: pointer;
   }
   
-.resa input[type="submit"]:hover {
+.container .resa input[type="submit"]:hover {
     background-color: #45a049;
   }
   

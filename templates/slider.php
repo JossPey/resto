@@ -16,10 +16,10 @@
       <div class="carousel-item active">
         <img src="assets/images/image24.jpg" alt="">
         <div class="container">
-          <div class="carousel-caption text-start">
-            <h1>Example headline.</h1>
-            <p>Some representative placeholder content for the first slide of the carousel.</p>
-            <p><a class="btn btn-lg btn-primary" href="#">Sign up today</a></p>
+          <div class="carousel-caption">
+            <h1>Horaires:</h1>
+            <p>DU MARDI AU DIMANCHE <br> 11h-15h  <br> 18h-22h </p>
+            <p><a class="btn btn-lg btn-primary" href="contact.php">Nous joindre</a></p>
           </div>
         </div>
       </div>
@@ -30,7 +30,7 @@
           <div class="carousel-caption">
             <h1>Another example headline.</h1>
             <p>Some representative placeholder content for the second slide of the carousel.</p>
-            <p><a class="btn btn-lg btn-primary" href="#">Learn more</a></p>
+            <p><a class="btn btn-lg btn-primary" href="resa.php">Réserver</a></p>
           </div>
         </div>
       </div>
@@ -38,10 +38,10 @@
       <div class="carousel-item">
       <img src="assets/images/image23.jpg" alt="">
         <div class="container">
-          <div class="carousel-caption text-end">
+          <div class="carousel-caption">
             <h1>One more for good measure.</h1>
             <p>Some representative placeholder content for the third slide of this carousel.</p>
-            <p><a class="btn btn-lg btn-primary" href="#">Browse gallery</a></p>
+            <p><a class="btn btn-lg btn-primary" href="galerie.php">Galerie photo</a></p>
           </div>
         </div>
       </div>
