@@ -19,4 +19,5 @@ $mainMenu = [
     'menuMidi.php' => 'Menu du midi' ,
     'menuSoir.php' => 'Menu du soir' ,
     'horaires.php' => 'Horaires' ,
+    'connection.php' => 'Se connecter' ,
   ];

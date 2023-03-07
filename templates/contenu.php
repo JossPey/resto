@@ -12,7 +12,7 @@
     <div class="row py-lg-5">
       <div class="col-lg-6 col-md-8 mx-auto">
         <h1 class="font-weight-bold">Le quai antique</h1><br><br>
-        <p class="lead text-muted">Le chef Arnaud vous reçoit du mardi au dimanche de 11h à 15h et de 18h à 22h. 
+        <p class="lead text-muted">Le chef Arnaud Michaud vous reçoit du mardi au dimanche de 11h à 15h et de 18h à 22h. 
          Ses plats sont frais et préparés avec des produits locaux et de saisons. 
         N'hésitez plus et appelez nous ou réservez votre table en ligne. </p>
         <p>

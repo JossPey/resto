@@ -12,7 +12,7 @@ require_once(__DIR__ . '/templates/header.php');
             <input type="text" id="name" name="name" autocomplete="off" required><br><br>
             <label for="phone">Numéro de téléphone :</label>
             <input type="text" id="phone" name="phone" autocomplete="off" required><br><br>
-            <label for="allergies">Alergies potentielles :</label>
+            <label for="allergies">Allergies potentielles :</label>
             <input type="text" id="allergies" name="allergies" autocomplete="off"><br><br>
             <label for="Nombres">Nombre de couverts :</label>
             <input type="text" id="couverts" name="couverts" autocomplete="off" required><br><br>

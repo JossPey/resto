@@ -19,7 +19,7 @@
           <div class="carousel-caption">
             <h1 class="fs-2 text-white">Horaires:</h1>
             <p class="fs-4 text-white">DU MARDI AU DIMANCHE <br> 11h-15h <br> 18h-22h </p><br><br><br><br><br><br><br><br><br><br><br>
-            <p><a class="btn btn-lg text-white bg-dark p-2 rounded" href="contact.php">Nous joindre</a></p>
+            <p><a class="btn btn-lg text-white bg-dark p-2 rounded" href="connection.php">Se connecter</a></p>
           </div>
         </div>
       </div>
