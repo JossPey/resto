@@ -17,8 +17,10 @@
         <img src="assets/images/image24.jpg" alt="">
         <div class="container">
           <div class="carousel-caption">
-            <h1 class="fs-2 text-white">Horaires:</h1>
-            <p class="fs-4 text-white">DU MARDI AU DIMANCHE <br> 11h-15h <br> 18h-22h </p><br><br><br><br><br><br><br><br><br><br><br>
+            <h1 class="fs-2 text-white">Nos horaires:</h1>
+            <p class="fs-4 text-white">Lun: FERME <br> Mar: 12h/14h-19h/22h <br> Mer: 12h/14h-19h/22h 
+            <br> Jeu: 12h/14h-19h/22h <br> Ven: 12h/14h-19h/22h <br> Sam: 12h/14h-19h/22h <br> 
+            Dim: 12h/14h-19h/22h <br> </p><br><br><br><br><br><br><br>
             <p><a class="btn btn-lg text-white bg-dark p-2 rounded" href="connection.php">Se connecter</a></p>
           </div>
         </div>
@@ -28,8 +30,8 @@
       <img src="assets/images/image22.jpg" alt="">
         <div class="container">
           <div class="carousel-caption">
-            <h1 class="fs-1 text-dark">Adresse:</h1>
-            <p class="fs-3 text-dark">55 rue de chamb <br> chambéry <br> 73000</p><br><br><br><br><br><br><br><br><br><br><br>
+            <h1 class="fs-1 text-white">Adresse:</h1>
+            <p class="fs-3 text-white">55 rue de chamb <br> chambéry 73000</p><br><br><br><br><br><br><br><br><br><br><br>
             <p><a class="btn btn-lg text-white bg-dark p-2 rounded" href="resa.php">Réserver</a></p>
           </div>
         </div>
@@ -39,8 +41,8 @@
       <img src="assets/images/image23.jpg" alt="">
         <div class="container">
           <div class="carousel-caption">
-            <h1 class="fs-1 text-dark">Numéro de téléphone:</h1>
-            <p class="fs-3 text-dark">06.15.16.15.16</p><br><br><br><br><br><br><br><br><br><br>
+            <h1 class="fs-1 text-dark">Téléphone:</h1>
+            <p class="fs-3 text-dark">06.15.16.15.16</p><br><br><br><br><br><br><br><br><br><br><br><br>
             <p><a class="btn btn-lg text-white bg-dark p-2 rounded" href="galerie.php">Galerie photo</a></p>
           </div>
         </div>

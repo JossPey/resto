@@ -14,29 +14,17 @@ require_once(__DIR__ . '/templates/header.php');
             <input type="text" id="phone" name="phone" autocomplete="off" required><br><br>
             <label for="allergies">Allergies potentielles :</label>
             <input type="text" id="allergies" name="allergies" autocomplete="off"><br><br>
-            <label for="Nombres">Nombre de couverts :</label>
+            <label for="Nombres">Nombre de couverts (10max) :</label>
             <input type="text" id="couverts" name="couverts" autocomplete="off" required><br><br>
             <label for="date">Date :</label>
             <input type="date" id="date" name="date" autocomplete="off" required><br><br>
             <select name="hour" id="hour" placeholder="Selectionner une heure" required>
-                <option value="hour-select">11h00</option>
-                <option value="hour-select">11h15</option>
-                <option value="hour-select">11h30</option>
-                <option value="hour-select">11h45</option>
                 <option value="hour-select">12h00</option>
                 <option value="hour-select">12h15</option>
                 <option value="hour-select">12h30</option>
                 <option value="hour-select">12h45</option>
                 <option value="hour-select">13h00</option>
-                <option value="hour-select">13h15</option>
-                <option value="hour-select">13h30</option>
-                <option value="hour-select">13h45</option>
-                <option value="hour-select">14h00</option>
 
-                <option value="hour-select">18h00</option>
-                <option value="hour-select">18h15</option>
-                <option value="hour-select">18h30</option>
-                <option value="hour-select">18h45</option>
                 <option value="hour-select">19h00</option>
                 <option value="hour-select">19h15</option>
                 <option value="hour-select">19h30</option>

@@ -8,11 +8,11 @@
       <a href="/" class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
         <svg class="bi" width="30" height="24"><use xlink:href="#bootstrap"/></svg>
       </a>
-      <span class="mb-3 mb-md-0 text-muted">&copy; 2022 Company, Inc</span>
+      <a href="horaires.php" class="mb-3 text-decoration-none text-secondary ">horaires</a>
     </div>
 
-    <div  class="horaires">
-      <a href="horaires.php" class="text-white bg-secondary p-2 rounded">horaires</a>
+    <div class="logo">
+    <a href="index.php" class="mb-3 text-decoration-none text-secondary">Le quai <br> antique</a>
     </div>
 
     <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
