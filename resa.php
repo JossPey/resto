@@ -3,6 +3,7 @@ require_once(__DIR__ . '/templates/header.php');
 ?>
 
 
+<!--Resa form-->
 <main>
     <div class="container">
         <h1>Réservation de table</h1>
@@ -35,7 +36,49 @@ require_once(__DIR__ . '/templates/header.php');
                 <option value="hour-select">20h45</option>
                 <option value="hour-select">21h00</option>
             </select><br><br>
-            <input type="submit" value="Réserver"><br><br>
+
+            <div class="checkbox mb-3">
+                <label>
+                    <input type="checkbox" value="remember-me"> Se souvenir de moi
+                </label>
+            </div><br>
+
+            <!--login form offcanvas-->
+
+            <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasTop" aria-controls="offcanvasTop">Reserver</button>
+
+            <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasTop" aria-labelledby="offcanvasTopLabel">
+
+
+                <main class="form-signin w-100 m-auto">
+                    <form>
+                        <h1 class="h3 mb-3 fw-normal">Connectez-vous.</h1>
+
+                        <div class="form-floating">
+                            <input type="email" class="form-control" id="floatingInput" required>
+                            <label for="floatingInput">Email</label>
+                        </div>
+
+                        <div class="form-floating">
+                            <input type="password" class="form-control" id="floatingPassword" required>
+                            <label for="floatingPassword">Mot de passe</label>
+                        </div>
+
+                        <div class="checkbox mb-3">
+                            <label>
+                            <input type="checkbox" value="remember-me"> Se souvenir de moi
+                            </label>
+                        </div>
+
+                        <button onclick="alert('Votre reservation à bien été prise en compte !')" id="okLogin" class="w-100 btn btn-lg btn-primary" type="submit">C'est parti</button>
+                    </form>
+                </main>
+
+
+            </div>
+
+
+
         </form>
     </div>
 </main>

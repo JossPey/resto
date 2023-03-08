@@ -21,7 +21,7 @@
             <p class="fs-4 text-white">Lun: FERME <br> Mar: 12h/14h-19h/22h <br> Mer: 12h/14h-19h/22h 
             <br> Jeu: 12h/14h-19h/22h <br> Ven: 12h/14h-19h/22h <br> Sam: 12h/14h-19h/22h <br> 
             Dim: 12h/14h-19h/22h <br> </p><br><br><br><br><br><br><br>
-            <p><a class="btn btn-lg text-white bg-dark p-2 rounded" href="connection.php">Se connecter</a></p>
+            <p><a class="btn btn-lg text-white bg-dark p-2 rounded" href="contact.php">Nous contacter</a></p>
           </div>
         </div>
       </div>
